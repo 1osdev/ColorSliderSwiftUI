@@ -11,6 +11,7 @@
 		A68CCAF927FB5D8C005B595B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A68CCAF827FB5D8C005B595B /* ContentView.swift */; };
 		A68CCAFB27FB5D90005B595B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A68CCAFA27FB5D90005B595B /* Assets.xcassets */; };
 		A68CCAFE27FB5D90005B595B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A68CCAFD27FB5D90005B595B /* Preview Assets.xcassets */; };
+		A68CCB0527FBA165005B595B /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A68CCB0427FBA165005B595B /* ColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A68CCAF827FB5D8C005B595B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A68CCAFA27FB5D90005B595B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A68CCAFD27FB5D90005B595B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A68CCB0427FBA165005B595B /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A68CCAF627FB5D8C005B595B /* ColorSliderSwiftUIApp.swift */,
 				A68CCAF827FB5D8C005B595B /* ContentView.swift */,
+				A68CCB0427FBA165005B595B /* ColorView.swift */,
 				A68CCAFA27FB5D90005B595B /* Assets.xcassets */,
 				A68CCAFC27FB5D90005B595B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A68CCB0527FBA165005B595B /* ColorView.swift in Sources */,
 				A68CCAF927FB5D8C005B595B /* ContentView.swift in Sources */,
 				A68CCAF727FB5D8C005B595B /* ColorSliderSwiftUIApp.swift in Sources */,
 			);
